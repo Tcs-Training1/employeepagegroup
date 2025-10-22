@@ -215,7 +215,7 @@ class _EmployeeFormPageState extends State<EmployeeFormPage> {
               "Employee Data",
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
-            SizedBox(height: 11),
+            SizedBox(height: 12),
             // Employee List (Table)
             ListView.builder(
               shrinkWrap: true,
