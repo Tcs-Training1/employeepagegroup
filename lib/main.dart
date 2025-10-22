@@ -209,7 +209,7 @@ class _EmployeeFormPageState extends State<EmployeeFormPage> {
                 ],
               ),
             ),
-            SizedBox(height: 30),
+            SizedBox(height: 31),
             Divider(),
             Text(
               "Employee Data",
